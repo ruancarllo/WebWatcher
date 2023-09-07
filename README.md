@@ -38,7 +38,7 @@ You can run Web Watcher in two different ways:
    ./web-watcher
    ```
 
-Feel free to choose the method that best suits your needs. Enjoy using Web Watcher to monitor and analyze Google Chrome events!
+The project is [MIT-0](https://opensource.org/license/mit-0) licensed, so feel free to choose the method that best suits your needs. Enjoy using Web Watcher to monitor and analyze Google Chrome events!
 
 <p align="center">
    <img src="./images/terminal-demo.png" alt="Demonstration of the program running in a terminal">
