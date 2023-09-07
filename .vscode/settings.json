@@ -1,0 +1,7 @@
+{
+  "deno": {
+    "enable": true,
+    "unstable": true,
+    "lint": true
+  }
+}
